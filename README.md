@@ -1,6 +1,6 @@
 # OneAPP — Kemekol (ከመኮል) Web App
 
-A bilingual (English · አማርኛ), fully static marketing and discovery site for **Kemekol** — an Ethiopian software engineering company, institutional content digitization agency, and publisher of top-rated Ethiopian Orthodox Tewahedo apps on Google Play.
+A bilingual (English · አማርኛ), fully static marketing and discovery site for **Kemekol** — an Ethiopian software engineering company, institutional content digitization agency, and publisher of top-rated Eotc apps on Google Play.
 
 No build step. No dependencies. No server. Open `index.html` and it runs.
 

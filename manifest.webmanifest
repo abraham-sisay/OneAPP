@@ -1,0 +1,14 @@
+{
+  "name": "Kemekol — ከመኮል",
+  "short_name": "Kemekol",
+  "description": "Ethiopian software engineering, institutional content digitization, and Ethiopian Orthodox Tewahedo apps.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FCF8F7",
+  "theme_color": "#981F26",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

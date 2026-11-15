@@ -1,0 +1,20 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Archives / working files
+*.zip
+
+# Logs
+*.log
+
+# Source artwork duplicates (shipped as logo-navy.png / logo-white.png)
+assets/img/KemeKol navy mantle and fruit emblem.png
+assets/img/White two-piece logo with open gap.png

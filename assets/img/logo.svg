@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-label="Kemekol">
+  <defs>
+    <linearGradient id="kg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10b981"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#03070d"/>
+  <rect x="5" y="5" width="54" height="54" rx="12" fill="url(#kg)"/>
+  <text x="32" y="44" font-family="Noto Serif Ethiopic, Georgia, serif" font-size="34" font-weight="700" text-anchor="middle" fill="#04150e">ከ</text>
+  <text x="80" y="30" font-family="Plus Jakarta Sans, -apple-system, sans-serif" font-size="21" font-weight="800" letter-spacing="2" fill="#f8fafc">KEMEKOL</text>
+  <text x="80" y="52" font-family="Noto Sans Ethiopic, sans-serif" font-size="16" font-weight="600" fill="#10b981">ከመኮል</text>
+</svg>
